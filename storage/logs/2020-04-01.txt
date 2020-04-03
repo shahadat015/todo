@@ -1,0 +1,427 @@
+[01-Apr-2020 11:07:53 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:07:54 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:07:54 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('favicon.ico')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:08:03 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:08:07 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:08:08 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:08:26 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:09:24 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:09:48 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/index.ph...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:05 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:06 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:22 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:23 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:23 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:23 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:24 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:24 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:25 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:27 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:28 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:10:52 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:11:50 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:11:51 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:11:57 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:11:58 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:00 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:01 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:02 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:03 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:08 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:09 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:10 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:11 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:13 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:12:14 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:16:20 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:16:20 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "layouts/app.html" (looked into: ../resource/views) in "404.html" at line 1. in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('layouts/app.htm...')
+#1 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('layouts/app.htm...')
+#2 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(321): Twig\Environment->getTemplateClass('layouts/app.htm...')
+#3 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(358) : eval()'d code(42): Twig\Template->loadTemplate('layouts/app.htm...', '404.html', 1)
+#4 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(396): __TwigTemplate_e046d55f886d53500383654187e0a73ebf65b3eaedd0699763eaaa133ce2cb69->doDisplay(Array, Array)
+#5 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(369): Twig\Template->displayWith in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[01-Apr-2020 11:16:51 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:16:52 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Looks like you try to load a template outside configured directories (../layouts/app.html) in "404.html" at line 1. in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php:268
+Stack trace:
+#0 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(186): Twig\Loader\FilesystemLoader->validateName('../layouts/app....')
+#1 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('../layouts/app....')
+#2 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('../layouts/app....')
+#3 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(321): Twig\Environment->getTemplateClass('../layouts/app....')
+#4 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(358) : eval()'d code(42): Twig\Template->loadTemplate('../layouts/app....', '404.html', 1)
+#5 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(396): __TwigTemplate_e046d55f886d535003836 in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 268
+[01-Apr-2020 11:16:52 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:16:52 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Looks like you try to load a template outside configured directories (../layouts/app.html) in "404.html" at line 1. in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php:268
+Stack trace:
+#0 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(186): Twig\Loader\FilesystemLoader->validateName('../layouts/app....')
+#1 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('../layouts/app....')
+#2 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('../layouts/app....')
+#3 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(321): Twig\Environment->getTemplateClass('../layouts/app....')
+#4 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(358) : eval()'d code(42): Twig\Template->loadTemplate('../layouts/app....', '404.html', 1)
+#5 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(396): __TwigTemplate_e046d55f886d535003836 in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 268
+[01-Apr-2020 11:17:21 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:17:21 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "app.html" (looked into: ../resource/views) in "404.html" at line 1. in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('app.html')
+#1 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('app.html')
+#2 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(321): Twig\Environment->getTemplateClass('app.html')
+#3 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(358) : eval()'d code(42): Twig\Template->loadTemplate('app.html', '404.html', 1)
+#4 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(396): __TwigTemplate_e046d55f886d53500383654187e0a73ebf65b3eaedd0699763eaaa133ce2cb69->doDisplay(Array, Array)
+#5 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(369): Twig\Template->displayWithErrorHandling(Array, Array)
+#6 F:\laragon\www\to in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[01-Apr-2020 11:17:22 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:17:22 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "app.html" (looked into: ../resource/views) in "404.html" at line 1. in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('app.html')
+#1 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('app.html')
+#2 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(321): Twig\Environment->getTemplateClass('app.html')
+#3 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(358) : eval()'d code(42): Twig\Template->loadTemplate('app.html', '404.html', 1)
+#4 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(396): __TwigTemplate_e046d55f886d53500383654187e0a73ebf65b3eaedd0699763eaaa133ce2cb69->doDisplay(Array, Array)
+#5 F:\laragon\www\todo\vendor\twig\twig\src\Template.php(369): Twig\Template->displayWithErrorHandling(Array, Array)
+#6 F:\laragon\www\to in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[01-Apr-2020 11:17:35 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:17:36 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:17:58 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:18:00 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:18:02 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:18:45 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:18:46 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:18:50 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:19:47 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:19:48 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:21:16 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:22:21 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:22:33 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:22:44 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:22:46 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:22:59 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:23:00 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:23:50 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:23:51 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:24:05 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:26:52 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:27:13 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:28:31 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 11:28:32 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:08:31 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:08:32 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:09:25 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:09:49 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:09:50 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('abc')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:09:52 UTC] Uncaught exception: 'Error' with message 'Class 'App\Controllers\Tod' not found'
+Stack trace: #0 F:\laragon\www\todo\bootstrap\Route.php(113): App\Controllers\TodoController->index()
+#1 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('')
+#2 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#3 {main}
+Thrown in 'F:\laragon\www\todo\app\Controllers\TodoController.php' on line 18
+[01-Apr-2020 14:10:22 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:10:23 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/js/jquer...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:11:29 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('public/css/styl...')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[01-Apr-2020 14:14:31 UTC] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unknown "dirname" function.'
+Stack trace: #0 F:\laragon\www\todo\vendor\twig\twig\src\ExpressionParser.php(446): Twig\ExpressionParser->getFunctionNodeClass('dirname', 11)
+#1 F:\laragon\www\todo\vendor\twig\twig\src\ExpressionParser.php(235): Twig\ExpressionParser->getFunctionNode('dirname', 11)
+#2 F:\laragon\www\todo\vendor\twig\twig\src\ExpressionParser.php(175): Twig\ExpressionParser->parsePrimaryExpression()
+#3 F:\laragon\www\todo\vendor\twig\twig\src\ExpressionParser.php(70): Twig\ExpressionParser->getPrimary()
+#4 F:\laragon\www\todo\vendor\twig\twig\src\Parser.php(139): Twig\ExpressionParser->parseExpression()
+#5 F:\laragon\www\todo\vendor\twig\twig\src\Parser.php(95): Twig\Parser->subparse(NULL, false)
+#6 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#7 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(507): Twig\Environment->parse(Object(Twig\TokenStream))
+#8 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(348): Twig\Environment->compileSource(Object(Twig\Source))
+#9 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(309): Twig\Environment->loadTemplate('__TwigTemplate_...', 'home.php')
+#10 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(277): Twig\Environment->load('home.php')
+#11 F:\laragon\www\todo\bootstrap\View.php(30): Twig\Environment->render('home.php', Array)
+#12 F:\laragon\www\todo\app\Controllers\TodoController.php(21): Bootstrap\View::render('home.php', Array)
+#13 F:\laragon\www\todo\bootstrap\Route.php(113): App\Controllers\TodoController->index()
+#14 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('')
+#15 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#16 {main}
+Thrown in 'F:\laragon\www\todo\resource\views\home.php' on line 11

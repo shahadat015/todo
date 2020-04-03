@@ -1,0 +1,100 @@
+[31-Mar-2020 21:50:07 UTC] Uncaught exception: 'Error' with message 'Call to a member function query() on null'
+Stack trace: #0 F:\laragon\www\todo\app\Controllers\TodoController.php(18): App\Models\Model::all()
+#1 F:\laragon\www\todo\bootstrap\Route.php(113): App\Controllers\TodoController->index()
+#2 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('')
+#3 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#4 {main}
+Thrown in 'F:\laragon\www\todo\app\Models\Model.php' on line 40
+[31-Mar-2020 21:50:08 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: ../resource/views). in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(309): Twig\Environment->getTemplateClass('500.html')
+#3 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(277): Twig\Environment->load('500.html')
+#4 F:\laragon\www\todo\bootstrap\View.php(30): Twig\Environment->render('500.html', Array)
+#5 F:\laragon\www\todo\bootstrap\Exception.php(73): Bootstrap\View::render('500.html')
+#6 [internal function]: Bootstrap\Exception::exceptionHandler(Object(Error))
+#7 {main}
+  thrown in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[31-Mar-2020 21:50:10 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('favicon.ico')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:50:10 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "404.html" (looked into: ../resource/views). in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('404.html')
+#1 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('404.html')
+#2 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(309): Twig\Environment->getTemplateClass('404.html')
+#3 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(277): Twig\Environment->load('404.html')
+#4 F:\laragon\www\todo\bootstrap\View.php(30): Twig\Environment->render('404.html', Array)
+#5 F:\laragon\www\todo\bootstrap\Exception.php(73): Bootstrap\View::render('404.html')
+#6 [internal function]: Bootstrap\Exception::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[31-Mar-2020 21:50:39 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('index')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:50:39 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "404.html" (looked into: ../resource/views). in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('404.html')
+#1 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('404.html')
+#2 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(309): Twig\Environment->getTemplateClass('404.html')
+#3 F:\laragon\www\todo\vendor\twig\twig\src\Environment.php(277): Twig\Environment->load('404.html')
+#4 F:\laragon\www\todo\bootstrap\View.php(30): Twig\Environment->render('404.html', Array)
+#5 F:\laragon\www\todo\bootstrap\Exception.php(73): Bootstrap\View::render('404.html')
+#6 [internal function]: Bootstrap\Exception::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in F:\laragon\www\todo\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[31-Mar-2020 21:52:27 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('index')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:52:45 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('v')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:53:18 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('v')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:53:59 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('v')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:54:14 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('v')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:55:55 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('v')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:55:56 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('v')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:55:57 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('v')
+#1 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#2 {main}
+Thrown in 'F:\laragon\www\todo\bootstrap\Route.php' on line 121
+[31-Mar-2020 21:56:00 UTC] Uncaught exception: 'Error' with message 'Class 'App\Controllers\Controlle' not found'
+Stack trace: #0 F:\laragon\www\todo\vendor\composer\ClassLoader.php(444): include()
+#1 F:\laragon\www\todo\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('F:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 F:\laragon\www\todo\bootstrap\Route.php(106): class_exists('App\\Controllers...')
+#5 F:\laragon\www\todo\routes\web.php(11): Bootstrap\Route::dispatch('')
+#6 F:\laragon\www\todo\public\index.php(12): require('F:\\laragon\\www\\...')
+#7 {main}
+Thrown in 'F:\laragon\www\todo\app\Controllers\TodoController.php' on line 9

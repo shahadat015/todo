@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import '@fortawesome/fontawesome-free/css/fontawesome';
+@import 'bootstrap/scss/bootstrap';
+
+body {
+    font-family: Nunito, sans-serif;
+    background: #F9F9F9;
+}
+
+.title {
+	color: #EDDFDC;
+    font-size: 5rem;
+    font-weight: 400;
+}
+
+.card {
+	border: 0;
+	border-radius: .05rem;
+	box-shadow: 5px 5px 0px 0px #fff, 10px 10px 0px 0px #fff;
+}
+
+.card-body {
+	padding: 0;
+}
+
+.form-group {
+	margin: .7rem 0;
+}
+
+.form-control {
+	border-radius: 0;
+	border: 0;
+	font-size: 1.5rem;
+}
+
+.form-control:focus {
+	box-shadow: none;
+}
+
+.input-group {
+	padding: 5px;
+}
+
+.input-group-text {
+	background-color: #fff; 
+    border: 0; 
+    border-radius: 0;
+    color: #EFEFEF;
+}
+
+.custom-control-label {
+    padding-left: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #4B6175;
+    cursor: pointer;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+    border-color: #098c00;
+    background-color: #098c00;
+}
+
+.custom-control-input:focus:not(:checked)~.custom-control-label::before {
+    border-color: #EFEFEF;
+}
+
+.custom-control-input:focus~.custom-control-label::before {
+	box-shadow: none;
+}
+
+.custom-checkbox .custom-control-input:disabled:checked ~ .custom-control-label::before {
+    background-color: #098c00;
+}
+.custom-checkbox .custom-control-label::before {
+    border-radius: .9rem;
+}
+
+.custom-control-label::before {
+    width: 1.8rem;
+    height: 1.8rem;
+    border-color: #EFEFEF;
+}
+.custom-control-label::after {
+    width: 1.8rem;
+    height: 1.8rem;
+}
+
+.custom-control-span {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #4B6175;
+    cursor: pointer;
+    position: relative;
+    margin-bottom: 0;
+    vertical-align: top;
+}
+
+.editable-input {
+    display: inline-block;
+    width: 94%;
+    height: calc(1em + 0.63rem + 2px);
+    padding: .5rem 0.25rem;
+    border: 1px solid #eeeef0;
+    box-shadow: 0px 0px 2px 0px #ddd inset;
+}
+
+.input-group .form-control::placeholder {
+  color: #EEEEF0;
+  font-style: italic;
+}
+
+.text-bottom {
+	color: #AA9FA0;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.card-header {
+	padding: 0;
+	background-color: #fff; 
+}
+
+.card-footer {
+    background-color: #fff;
+}
+
+.card-footer span, .card-footer  a {
+    color: #AA9FA0;
+    font-weight: 500;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.card-footer a.active {
+    border: 1px solid #ddd;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
+.card-footer a:hover {
+    text-decoration: none;
+}
+
+.complete-item {
+	color: #E2E0DF;
+}
+
+.editable {
+	width: 485px!important;
+}

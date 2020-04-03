@@ -1,0 +1,21 @@
+{
+    "name": "shahadat/todos",
+    "authors": [
+        {
+            "name": "Shahadat Hossain",
+            "email": "shahadat015@yahoo.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Bootstrap\\": "Bootstrap/",
+            "App\\": "App/",
+            "Config\\": "Config/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    }
+}
