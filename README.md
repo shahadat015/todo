@@ -10,7 +10,7 @@ Run the Composer dump-autoload command from the Terminal:
 
 The final steps for you are to add the database credentials. To do this open `config/Database.php` file.
 
-And put your database infomations.
+And import todo.sql to your databse.
 
 ## Usage
 
