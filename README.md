@@ -14,7 +14,7 @@ And put your database infomations.
 
 ## Usage
 
-Go to project directory using localhost/foldername or vertualhost e.g. todo.dev
+Go to project directory using localhost/foldername or virtual host e.g. todo.dev
 
 ## File structure
 I have folllowed laravel folder structure but not 100%
