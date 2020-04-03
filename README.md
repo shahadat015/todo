@@ -2,7 +2,7 @@
 
 ## Installation
 
-Clone this repo [Composer](https://github.com/shahadat015/todo.git). 
+Clone this repo [https://github.com/shahadat015/todo.git](https://github.com/shahadat015/todo.git). 
 
 Run the Composer dump-autoload command from the Terminal:
 
