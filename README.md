@@ -31,3 +31,4 @@ todo
 ├── route - Web route file
 └── storage - Application logs file
 ```
+NB: I did not make any scurity (csrf) or validation task
